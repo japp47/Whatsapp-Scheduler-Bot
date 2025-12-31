@@ -16,7 +16,7 @@ data/bot.db-journal
 # Auth sessions
 .wwebjs_auth/
 .auth_tokens/
-.wwebjs_cache
+.wwebjs_cache/
 
 # Logs
 logs/*.log
