@@ -1,0 +1,16 @@
+{
+  "description": "Example contacts template - Copy this to contacts.json and fill in your contacts",
+  "contacts": [
+    {
+      "phoneNumber": "919352373221",
+      "timezone": "Asia/Kolkata",
+      "name": "Arpita"
+    },
+    {
+      "phoneNumber": "123456789012",
+      "timezone": "America/New_York",
+      "name": "John Doe"
+    }
+  ]
+}
+
